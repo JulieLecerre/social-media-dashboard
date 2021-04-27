@@ -16,6 +16,11 @@ h1 {
 	margin-top: 0px;
 }
 
+p {
+	color: white;
+	opacity: 50%;
+}
+
 .darkmode {
 	color: white;
 	font-size: 17px;
